@@ -54,7 +54,7 @@ namespace buff
         FEL_MANA = 38929,
         FEL_ACHE = 38927,
         BURST_OF_KNOWLEDGE = 15646,
-        DARK_IRON_PIPE = 51953,
+        DARK_IRON_PIPE = 1312270,
         LIGHTS_WRATH = 45479,
     };
 
