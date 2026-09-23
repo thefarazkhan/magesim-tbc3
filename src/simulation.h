@@ -1907,7 +1907,7 @@ public:
             if (state->hasBuff(buff::SILVER_CRESCENT))
                 sp+= 155.0;
             if (state->hasBuff(buff::DARK_IRON_PIPE))
-                sp+= 155.0;
+                sp+= 209.0;
             if (state->hasBuff(buff::ESSENCE_MARTYR))
                 sp+= 99.0;
             if (state->hasBuff(buff::SPELL_POWER))
